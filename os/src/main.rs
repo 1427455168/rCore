@@ -3,7 +3,6 @@
 #![feature(panic_info_message)]
 
 use core::arch::global_asm;
-
 use crate::sbi::shutdown;
 
 #[macro_use]
