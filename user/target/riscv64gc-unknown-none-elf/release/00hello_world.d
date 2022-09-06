@@ -1,1 +1,0 @@
-/home/mjh/Labs/rCore/user/target/riscv64gc-unknown-none-elf/release/00hello_world: /home/mjh/Labs/rCore/user/src/bin/00hello_world.rs /home/mjh/Labs/rCore/user/src/console.rs /home/mjh/Labs/rCore/user/src/lang_items.rs /home/mjh/Labs/rCore/user/src/lib.rs /home/mjh/Labs/rCore/user/src/syscall.rs

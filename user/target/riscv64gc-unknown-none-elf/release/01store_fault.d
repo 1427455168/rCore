@@ -1,1 +1,0 @@
-/home/mjh/Labs/rCore/user/target/riscv64gc-unknown-none-elf/release/01store_fault: /home/mjh/Labs/rCore/user/src/bin/01store_fault.rs /home/mjh/Labs/rCore/user/src/console.rs /home/mjh/Labs/rCore/user/src/lang_items.rs /home/mjh/Labs/rCore/user/src/lib.rs /home/mjh/Labs/rCore/user/src/syscall.rs
